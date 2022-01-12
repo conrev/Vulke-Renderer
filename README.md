@@ -1,3 +1,3 @@
-# A Vulkan Renderer
+# A Vulkan Renderer from Scratch
 
 WIP
